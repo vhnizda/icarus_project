@@ -1,0 +1,4 @@
+repository "ProjectIcarus@game_essence@cloud"
+  path "/"
+    br "/main"
+    co "/main"
